@@ -117,7 +117,6 @@ class Home extends Component {
                                         <i className="fa fa-desktop"></i>
                                         <div className="feature-content">
                                             <h4>Web Design</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -126,7 +125,6 @@ class Home extends Component {
                                         <i className="fa fa-html5"></i>
                                         <div className="feature-content">
                                             <h4>HTML</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -135,7 +133,6 @@ class Home extends Component {
                                         <i className="fa fa-css3"></i>
                                         <div className="feature-content">
                                             <h4>CSS3</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -144,7 +141,6 @@ class Home extends Component {
                                         <i className="fa fa-keyboard-o"></i>
                                         <div className="feature-content">
                                             <h4>JavaScript</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -153,7 +149,6 @@ class Home extends Component {
                                         <i className="fa fa-diamond"></i>
                                         <div className="feature-content">
                                             <h4>Ruby on Rails</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +157,6 @@ class Home extends Component {
                                         <i className="fa fa-spinner"></i>
                                         <div className="feature-content">
                                             <h4>React JS</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -171,7 +165,6 @@ class Home extends Component {
                                         <i className="fa fa-tablet"></i>
                                         <div className="feature-content">
                                             <h4>Bootstrap</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -180,7 +173,6 @@ class Home extends Component {
                                         <i className="fa fa-tablet"></i>
                                         <div className="feature-content">
                                             <h4>Materialize</h4>
-                                            <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Lorem ipsum dolor. reprehenderit</p>
                                         </div>
                                     </div>
                                 </div>
@@ -498,12 +490,12 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-                                    <h3>Our Services</h3>
+                                    <h3>Links</h3>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
                             <div className="row">
-                                
+                                Fco
                                 <div className="col-md-4 col-sm-6 col-xs-12">
                                     <div className="feature-2">
                                         <div className="media">
@@ -570,108 +562,6 @@ class Home extends Component {
                                         </div>
                                     </div>
                                 </div>
-                                
-                            </div>
-                        </div>
-                        
-                        <div className="pricing-section">
-                            <div className="container">
-                                <div className="row">
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Free</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Standard</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Premium</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Professional</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
                             </div>
                         </div>
                         
@@ -684,113 +574,10 @@ class Home extends Component {
                         <div className="close-modal" data-dismiss="modal">
                             <div className="lr">
                                 <div className="rl">
+                                
                                 </div>
                             </div>
                         </div>
-                        
-
-                        
-                        <div className="pricing-section">
-                            <div className="container">
-                                <div className="row">
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Free</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Standard</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Premium</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div className="col-md-3 col-sm-6">
-                                        <div className="pricing-table">
-                                            <div className="plan-name">
-                                                <h3>Professional</h3>
-                                            </div>
-                                            <div className="plan-price">
-                                                <div className="price-value">$49<span>.00</span></div>
-                                                <div className="interval">per month</div>
-                                            </div>
-                                            <div className="plan-list">
-                                                <ul>
-                                                    <li>40 GB Storage</li>
-                                                    <li>40GB Transfer</li>
-                                                    <li>10 Domains</li>
-                                                    <li>20 Projects</li>
-                                                    <li>Free installation</li>
-                                                </ul>
-                                            </div>
-                                            <div className="plan-signup">
-                                                <a href="#" className="btn-system btn-small">Sign Up Now</a>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        
                     </div>
                 </div>
 
@@ -1056,7 +843,7 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-                                    <h3>Contact With Us</h3>
+                                    <h3>Contact Me</h3>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
@@ -1066,10 +853,10 @@ class Home extends Component {
                                     <div className="footer-contact-info">
                                         <h4>Contact info</h4>
                                         <ul>
-                                            <li><strong>E-mail :</strong> your-email@mail.com</li>
-                                            <li><strong>Phone :</strong> +8801-6778776</li>
-                                            <li><strong>Mobile :</strong> +8801-45565378</li>
-                                            <li><strong>Web :</strong> yourdomain.com</li>
+                                            <li><strong>E-mail :</strong> marck.m.lopez@gmail.com</li>
+                                            <li><strong>Phone :</strong> 214-458-3073</li>
+                                            <li><strong>Mobile :</strong> 609-977-2489</li>
+                                            <li><strong>Web :</strong> marckspage.herokuapp.com</li>
                                         </ul>
                                     </div>
                                 </div>
