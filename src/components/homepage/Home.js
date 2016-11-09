@@ -50,8 +50,8 @@ class Home extends Component {
                                 
                                 <div className="menu-item purple">
                                     <a href="#pricing-modal" data-toggle="modal">
-                                        <i className="fa fa-usd"></i>
-                                        <p>Pricing</p>
+                                        <i className="fa fa-certificate"></i>
+                                        <p>Education</p>
                                     </a>
                                 </div>                        
                             </div>
