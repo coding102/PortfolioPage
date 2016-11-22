@@ -848,7 +848,7 @@ class Home extends Component {
                             </div>
                             <div className="row">
                                 
-                                <div className="col-md-4">
+                                <div className="col-md-6">
                                     <div className="footer-contact-info">
                                         <h4>Contact info</h4>
                                         <ul>
@@ -860,7 +860,7 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 
-                                <div className="col-md-4">
+                                <div className="col-md-6">
                                     <div className="footer-social text-center">
                                         <ul>
                                             <li><a href="#"><i className="fa fa-twitter"></i></a></li>
@@ -871,20 +871,8 @@ class Home extends Component {
                                         </ul>
                                     </div>
                                 </div>
-                                
-                                <div className="col-md-4">
-                                    <div className="footer-contact-info">
-                                        <h4>Working Hours</h4>
-                                        <ul>
-                                            <li><strong>Mon-Wed :</strong> 9 am to 5 pm</li>
-                                            <li><strong>Thurs-Fri :</strong> 12 pm to 10 pm</li>
-                                            <li><strong>Sat :</strong> 9 am to 3 pm</li>
-                                            <li><strong>Sunday :</strong> Closed</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                
                             </div>
+                            <br />
                             <div className="row" style={{padding_top: "80px"}}>
                                 <div className="col-md-12">
                                     <form name="sentMessage" id="contactForm" noValidate>
@@ -936,7 +924,7 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-                                    <h3>Client's Speech About Us</h3>
+                                    <h3>Clients</h3>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
