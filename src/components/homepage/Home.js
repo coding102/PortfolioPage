@@ -815,22 +815,6 @@ class Home extends Component {
                                         </ul>
                                     </div>
                                 </div>
-<<<<<<< HEAD
-=======
-                                
-                                <div className="col-md-4">
-                                    <div className="footer-contact-info">
-                                        <h4>Working Hours</h4>
-                                        <ul>
-                                            <li><strong>Mon-Wed :</strong> 9 am to 5 pm</li>
-                                            <li><strong>Thurs-Fri :</strong> 12 pm to 10 pm</li>
-                                            <li><strong>Sat :</strong> 9 am to 3 pm</li>
-                                            <li><strong>Sunday :</strong> Closed</li>
-                                        </ul>
-                                    </div>
-                                </div>
-
->>>>>>> b9ef5fc93453e62b95bb98a54c10636243e90595
                             </div>
                             <br />
                             <div className="row" style={{padding_top: "80px"}}>
@@ -884,11 +868,7 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-<<<<<<< HEAD
-                                    <h3>Clients</h3>
-=======
                                     <h3>Customers</h3>
->>>>>>> b9ef5fc93453e62b95bb98a54c10636243e90595
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
