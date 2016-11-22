@@ -341,7 +341,7 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-                                    <h3>About Us</h3>
+                                    <h3>About Me</h3>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
@@ -398,8 +398,8 @@ class Home extends Component {
                                             <p>HTML & CSS</p>          
                                             <div className="progress">         
                                                 <div className="progress-bar" role="progressbar"  data-percentage="95">
-                                                    <span className="progress-bar-span" >95%</span>
-                                                    <span className="sr-only">95% Complete</span>
+                                                    <span className="progress-bar-span" >75%</span>
+                                                    <span className="sr-only">75% Complete</span>
                                                 </div>
                                             </div>  
                                         </div>
@@ -443,9 +443,9 @@ class Home extends Component {
                                     <div className="custom-tab">
                                 
                                         <ul className="nav nav-tabs nav-justified" role="tablist">
-                                            <li className="active"><a href="#tab-1" role="tab" data-toggle="tab">Our Mission</a></li>
-                                            <li><a href="#tab-2" role="tab" data-toggle="tab">Our Vission</a></li>
-                                            <li><a href="#tab-3" role="tab" data-toggle="tab">Company History</a></li>
+                                            <li className="active"><a href="#tab-1" role="tab" data-toggle="tab">Objective</a></li>
+                                            <li><a href="#tab-2" role="tab" data-toggle="tab">My Vision</a></li>
+                                            <li><a href="#tab-3" role="tab" data-toggle="tab">History</a></li>
                                         </ul>
 
                                         <div className="tab-content">
@@ -593,7 +593,7 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
-                                    <h3>Our Expert Team</h3>
+                                    <h3>Projects</h3>
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
@@ -603,14 +603,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/manage-1.png" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 1</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -620,14 +617,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/manage-2.png" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 2</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -637,14 +631,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/manage-3.png" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 3</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -654,14 +645,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/manage-4.png" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 4</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -671,14 +659,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/team-1.jpg" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 5</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -688,14 +673,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/team-2.jpg" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 6</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -705,14 +687,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/team-3.jpg" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 7</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -722,14 +701,11 @@ class Home extends Component {
                                     <div className="team-member">
                                         <img src="images/team/team-4.jpg" className="img-responsive" alt="" />
                                         <div className="team-details">
-                                            <h4>John Doe</h4>
+                                            <h4>Project 8</h4>
                                             <div className="designation">Senior Web Developer</div>
                                             <ul style={{text_align: "center"}}>
                                                 <li><a href="#"><i className="fa fa-facebook"></i></a></li>
                                                 <li><a href="#"><i className="fa fa-twitter"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-linkedin"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-dribbble"></i></a></li>
-                                                <li><a href="#"><i className="fa fa-google-plus"></i></a></li>
                                             </ul>
                                         </div>
                                     </div>
@@ -791,38 +767,6 @@ class Home extends Component {
                                     </div>
                                 </div>
                                 
-                                <div className="col-md-6">
-                                    <div className="latest-post">
-                                        <img src="images/blog-03.jpg" className="img-responsive" alt="" />
-                                        <h4><a href="#">Standard Post with Image</a></h4>
-                                        <div className="post-details">
-                                            <ul>
-                                                <li><i className="fa fa-user"></i> Auther : iThemesLab</li>
-                                                <li><i className="fa fa-calendar"></i> 07 Aug, 2014</li>
-                                                <li><i className="fa fa-tag"></i> Music</li>
-                                            </ul>
-                                        </div>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
-                                        
-                                    </div>
-                                </div>
-                                
-                                <div className="col-md-6">
-                                    <div className="latest-post">
-                                        <img src="images/blog-04.jpg" className="img-responsive" alt="" />
-                                        <h4><a href="#">Standard Post with Image</a></h4>
-                                        <div className="post-details">
-                                            <ul>
-                                                <li><i className="fa fa-user"></i> Auther : iThemesLab</li>
-                                                <li><i className="fa fa-calendar"></i> 07 Aug, 2014</li>
-                                                <li><i className="fa fa-tag"></i> Music</li>
-                                            </ul>
-                                        </div>
-                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
-                                        
-                                    </div>
-                                </div>
-                                
                             </div>
                         </div>
                         
@@ -871,6 +815,22 @@ class Home extends Component {
                                         </ul>
                                     </div>
                                 </div>
+<<<<<<< HEAD
+=======
+                                
+                                <div className="col-md-4">
+                                    <div className="footer-contact-info">
+                                        <h4>Working Hours</h4>
+                                        <ul>
+                                            <li><strong>Mon-Wed :</strong> 9 am to 5 pm</li>
+                                            <li><strong>Thurs-Fri :</strong> 12 pm to 10 pm</li>
+                                            <li><strong>Sat :</strong> 9 am to 3 pm</li>
+                                            <li><strong>Sunday :</strong> Closed</li>
+                                        </ul>
+                                    </div>
+                                </div>
+
+>>>>>>> b9ef5fc93453e62b95bb98a54c10636243e90595
                             </div>
                             <br />
                             <div className="row" style={{padding_top: "80px"}}>
@@ -924,7 +884,11 @@ class Home extends Component {
                         <div className="container">
                             <div className="row">
                                 <div className="section-title text-center">
+<<<<<<< HEAD
                                     <h3>Clients</h3>
+=======
+                                    <h3>Customers</h3>
+>>>>>>> b9ef5fc93453e62b95bb98a54c10636243e90595
                                     <p>Duis aute irure dolor in reprehenderit in voluptate</p>
                                 </div>
                             </div>
@@ -943,26 +907,6 @@ class Home extends Component {
                                 <div className="col-md-6">
                                     <div className="clients">
                                         <img src="images/team/manage-2.png" className="img-responsive" alt="..." />
-                                        <h4>John Doe</h4>
-                                        <div className="speech">
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div className="col-md-6">
-                                    <div className="clients">
-                                        <img src="images/team/manage-3.png" className="img-responsive" alt="..." />
-                                        <h4>John Doe</h4>
-                                        <div className="speech">
-                                            <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                                <div className="col-md-6">
-                                    <div className="clients">
-                                        <img src="images/team/manage-4.png" className="img-responsive" alt="..." />
                                         <h4>John Doe</h4>
                                         <div className="speech">
                                             <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.</p>
